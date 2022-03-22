@@ -17,7 +17,7 @@ class Program
         age = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("");
-        Console.WriteLine("Your info is: " + name + ", age " + age + ". My name is also " + name + ".");
+        Console.WriteLine("Your info is: " + name + ", age " + age + ". That's a cool name." );
 
         Console.WriteLine("\nDone.");
     }
